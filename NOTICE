@@ -1,5 +1,5 @@
 redphone is an application that provides encrypted voice calls for Android
-Copyright 2012 Whisper Systems
+Copyright (c) 2014 Whisper Systems
 
 We modified some Android code in the 'com.android.internal.widget.multiwaveview' package.
 
